@@ -87,7 +87,7 @@ To use this project, follow these steps:
 
 ![App Screenshot](./Decryption_vs_Access_Policy_Attributes.png)
 ![App Screenshot](./Decryption_vs_Access_Policy_Dynamic_Attributes.png)
-![App Screenshot](./Key_Gen_vs_User_Attributes_3.png)
+![App Screenshot](./Key_Gen_vs_User_Attributes.png)
 ![App Screenshot](./Encryption_vs_Access_Policy_Attributes_3.png)
 ![App Screenshot](./Encryption_vs_Access_Policy_Dynamic_Attributes.png)
 
