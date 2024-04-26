@@ -1,0 +1,13 @@
+sahaj
+attr_1 attr_2
+delhi
+attr_1 and attr_2
+delhi,mumbai
+hi
+
+sahaj
+attr_1 attr_2 attr_3
+delhi
+attr_1 and attr_2 and attr_3
+delhi,mumbai
+hi
